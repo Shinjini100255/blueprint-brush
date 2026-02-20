@@ -1,1 +1,4 @@
 project_id = "zfusxhbzdfjdlkyhvbeh"
+
+[functions.colorize]
+verify_jwt = false
